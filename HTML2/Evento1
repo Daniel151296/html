@@ -1,0 +1,70 @@
+<!--
+
+Crie um card de notícia utilizando a tag <article>. Neste conteúdo deve ter:
+
+ 
+
+- Um cabeçalho com um título e uma data de publicação
+
+- Um resumo da notícia
+
+- Uma imagem com atributo alt
+
+- Um rodapé com informações do autor
+
+ 
+
+-->
+
+ 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Exercício 01</title>
+</head>
+
+  <!-- Conteúdo aqui -->
+
+<body>
+</article>    
+  <header>
+    <h1>Noticia sobre tecnologias</h1>
+    <time datetime="2023-09-12t19:30:00">12 de setembro de 2023 ás 19:30</time>
+</header>
+<main>
+  <h2>Novo Iphone 15</h2>
+  <img src="#" alt="descrição da imagem">
+  <p>essa noticia...</p>
+</main>
+<footer>
+ <address>
+  Autor:#<br>
+  Email:#<br>
+  Telefone:#<br>
+  Endereço:#<br>
+  </address>
+</footer>
+</article>
+</body>
+</html>
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  

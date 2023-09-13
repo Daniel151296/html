@@ -1,0 +1,57 @@
+<!-- 
+
+Sua tarefa é criar uma página HTML que apresente informações sobre um evento fictício. Você deve estruturar sua página da seguinte maneira:
+
+<article>: Este será o contêiner principal para todas as informações sobre o evento.
+
+<section> (1): Esta seção deve conter detalhes sobre o evento, incluindo:
+  O nome do evento
+  A data e a hora do evento, usando a tag <time>
+
+<section> (2): Esta seção deve conter informações sobre o local do evento, incluindo:
+  O nome do local
+  O endereço do local, usando a tag <address>
+<footer> (1): Este rodapé deve estar dentro do <article> e conter informações sobre como entrar em contato com os organizadores do evento.
+
+<footer> (2): Este rodapé deve estar fora e abaixo do <article>, contendo informações de direitos autorais e um link para a política de privacidade do site.  
+
+-->
+
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Exercício 03</title>
+</head>
+
+<body>
+  <article>
+<section>
+    <h1>Jornadas nas estrelas</h1>
+    <p>Este evento vai conter,muitas atraçãoes com efeitos em um cenario tematico...</p>
+    <time>12 Setembro de 2023 as 13:00hs</time>
+</section><br>
+
+<section>
+    <h2>Shopping ibirapuera</h2>
+        <address>
+            Rua: ... <br>
+            Bairro: ...<br>
+            Cep:  ... <br>
+        </address>
+</section>
+<footer>
+    <h3>Contatos</h3>
+    <a href="mailton:Joao.oliveira@hotmail.com">Email:Joao.oliveira@hotmail.com </a><br>
+    <a href="tel:965552554">Telefone: (11) 96555-2554</a><br>
+</footer>
+  </article>
+<footer>
+    <h3>direitos autorais</h3>
+    <a href="#">política de privacidade</a>
+</footer>
+</body>
+</html>
