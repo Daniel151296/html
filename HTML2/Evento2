@@ -27,35 +27,36 @@ Obs: Pule a linha entre os <article> usando a tag <br>
         <H2>Noticias sobre a Russia</H2>
         <img src="#" alt="descrição da imagem">
         <p>A russia continua em guerra...</p>
+        <a href="#">Leia mais</a> 
     </article><br>
 
     <article>
         <H2>Noticia sobre Japão</H2>
         <img src="#" alt="descrição da imagem">
         <p>Tecnologia do Japão esta em alta...</p>
+        <a href="#">Leia mais</a>
     </article><br>
 
     <article>
         <H2>Noticias sobre a New york</H2>
         <img src="#" alt="descrição da imagem">
         <p>Muitos brasileiros buscam empregos por lá...</p>
+       <a href="#">Leia mais</a>
     </article><br>
 
     <article>
         <H2>Noticias sobre a china</H2>
         <img src="#" alt="descrição da imagem">
         <p>Os chineses estão indo para sociedade 5.0...</p>
+        <a href="#">Leia mais</a>
     </article><br>
 
     <article>
         <H2>Noticias sobre a Africa</H2>
         <img src="#" alt="descrição da imagem">
         <p>Os Africanos sofrem com a fome....</p>
-    </article><br>
-
-    <footer>
         <a href="#">Leia mais</a>
-    </footer>
+   </article><br>
   
 </body>
 
