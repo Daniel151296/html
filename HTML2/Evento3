@@ -32,7 +32,7 @@ Sua tarefa é criar uma página HTML que apresente informações sobre um evento
 <section>
     <h1>Jornadas nas estrelas</h1>
     <p>Este evento vai conter,muitas atraçãoes com efeitos em um cenario tematico...</p>
-    <time>12 Setembro de 2023 as 13:00hs</time>
+    <time datetime="2023-09-12T19:30:00">12 de setembro de 2023 ás 19:30</time>
 </section><br>
 
 <section>
